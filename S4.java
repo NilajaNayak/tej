@@ -1,4 +1,4 @@
-class Jv
+class Vin
 {
     public static void main(String args[])
     {
